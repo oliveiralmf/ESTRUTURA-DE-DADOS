@@ -27,3 +27,4 @@
 - Undefined: Representa uma variável que foi declarada mas ainda não recebeu nenhum valor.
 - Null: Representa a ausência intencional de qualquer valor ou objeto. Null é diferente de 0.
 - Symbol: Representa um valor único e imutável, muito usado para criar chaves de propriedades de objetos que não entram em conflito com outras.
+
